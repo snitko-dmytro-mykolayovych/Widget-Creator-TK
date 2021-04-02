@@ -1,9 +1,9 @@
 # Widget-Creator-TK
-English:    a simple program to create GUI for Python, based on Tkinter  for educational purposes, GPL3 distribution license
+English:    a simple program to create GUI for Python, based on Tkinter  for educational purposes.
 
-Українська: проста програма для створення GUI для Python, створена на базі Tkinter для навчальних цілей, ліцензія розповсюдження GPL3
+Українська: проста програма для створення GUI для Python, створена на базі Tkinter для навчальних цілей.
 
-Русский:    простая программа для создания GUI для Python, созданная на базе Tkinter для учебных целей, лицензия распространения GPL3
+Русский:    простая программа для создания GUI для Python, созданная на базе Tkinter для учебных целей.
 
 The history of Widget Creator TK began with the appearance of Python at school. And more precisely finding an analogue Lazarus for Python. I used to find Qt Designer, but for students it is more difficult. Therefore, I had to write this. It only creates a Tkinter graphical interface, the code must be written.
 
