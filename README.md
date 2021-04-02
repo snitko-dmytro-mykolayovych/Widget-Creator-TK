@@ -18,5 +18,6 @@ Help this application: 5168 7573 5185 9691
 On altruism is far from going to ( 
 
 GNU GENERAL PUBLIC LICENSE
+
 https://sites.google.com/teacher.rv.ua/widget-creator-tk/widget-creator-tk
 
